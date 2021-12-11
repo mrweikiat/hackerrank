@@ -1,6 +1,24 @@
 # hackerrank
 Some of my codes on hacker rank questions
 
+Beginner:
+1) Plus Minus
+
+Intermediate:
+1) Simple Text Editor
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***DISCLAIMER***
 
