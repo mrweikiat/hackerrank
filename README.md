@@ -5,6 +5,7 @@ Beginner:
 1) Plus Minus
 2) Camel case 4
 3) Mini max sum
+4) Sparse Array
 
 Intermediate:
 1) Simple Text Editor
