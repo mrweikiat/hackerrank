@@ -9,6 +9,7 @@ Beginner:
 5) Breaking The Records
 6) Time Conversion
 7) Divisible Sum Pairs
+8) Positive Negative Zero
 
 Intermediate:
 1) Simple Text Editor
