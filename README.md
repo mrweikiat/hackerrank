@@ -15,6 +15,7 @@ Beginner:
 11) Flipping bits
 12) Diagonal Difference
 13) Counting Sort I
+14) Counting Valleys
 
 Intermediate:
 1) Simple Text Editor
