@@ -10,6 +10,7 @@ Beginner:
 6) Time Conversion
 7) Divisible Sum Pairs
 8) Positive Negative Zero
+9) Lonely Integer
 
 Intermediate:
 1) Simple Text Editor
