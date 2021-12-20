@@ -20,13 +20,13 @@ class Result {
 
     public static void plusMinus(List<Integer> arr) {
     // Write your code here
-    
+
     double denominator = arr.size();
     int positive = 0;
     int negative = 0;
     int zero = 0;
-    
-    
+
+
     for (int i = 0; i < arr.size(); i++) {
         if (arr.get(i).intValue() == 0) {
             zero += 1;
@@ -35,22 +35,21 @@ class Result {
         } else {
             negative += 1;
         }
-        
+
     }
-    
+
     double ansPos = positive/ denominator;
     double ansNeg = negative/ denominator;
     double ansZero = zero/ denominator;
-    
+
     DecimalFormat df = new DecimalFormat("#.000000");
     df.setRoundingMode(RoundingMode.CEILING);
-    
+
     System.out.println( df.format(ansPos) );
     System.out.println( df.format(ansNeg));
     System.out.println( df.format(ansZero) );
-    
+
 
     }
 
 }
-
