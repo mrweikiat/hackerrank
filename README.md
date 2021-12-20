@@ -12,6 +12,8 @@ Beginner:
 8) Positive Negative Zero
 9) Lonely Integer
 10) Grading Students
+11) Flipping bits
+12) Diagonal Difference
 
 Intermediate:
 1) Simple Text Editor
