@@ -14,6 +14,7 @@ Beginner:
 10) Grading Students
 11) Flipping bits
 12) Diagonal Difference
+13) Counting Sort I
 
 Intermediate:
 1) Simple Text Editor
