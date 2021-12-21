@@ -16,6 +16,7 @@ Beginner:
 12) Diagonal Difference
 13) Counting Sort I
 14) Counting Valleys
+15) Pangrams
 
 Intermediate:
 1) Simple Text Editor
