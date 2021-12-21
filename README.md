@@ -20,6 +20,7 @@ Beginner:
 16) Mars Exploration
 17) Permutating Two Arrays
 18) Subarray Division II
+19) XOR Strings III
 
 Intermediate:
 1) Simple Text Editor
