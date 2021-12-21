@@ -18,6 +18,7 @@ Beginner:
 14) Counting Valleys
 15) Pangrams
 16) Mars Exploration
+17) Permutating Two Arrays
 
 Intermediate:
 1) Simple Text Editor
