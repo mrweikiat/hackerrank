@@ -23,6 +23,7 @@ Beginner:
 19) XOR Strings III
 20) Sales by Match
 21) Migratory Birds
+22) Drawing book
 
 Intermediate:
 1) Simple Text Editor
