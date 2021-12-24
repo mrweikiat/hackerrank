@@ -29,6 +29,7 @@ Beginner:
 25) Number Line Jumps
 26) Closest Number
 27) Minmum Absolute Difference in Array
+28) Caesar Cipher
 
 Intermediate:
 1) Simple Text Editor

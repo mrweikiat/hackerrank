@@ -1,0 +1,123 @@
+Julius Caesar protected his confidential information by encrypting it using a cipher. Caesar's cipher shifts each letter by a number of letters. If the shift takes you past the end of the alphabet, just rotate back to the front of the alphabet. In the case of a rotation by 3, w, x, y and z would map to z, a, b and c.
+
+Original alphabet:      abcdefghijklmnopqrstuvwxyz
+Alphabet rotated +3:    defghijklmnopqrstuvwxyzabc
+Example
+
+
+The alphabet is rotated by , matching the mapping above. The encrypted string is .
+
+Note: The cipher only encrypts letters; symbols, such as -, remain unencrypted.
+
+Function Description
+
+Complete the caesarCipher function in the editor below.
+
+caesarCipher has the following parameter(s):
+
+string s: cleartext
+int k: the alphabet rotation factor
+Returns
+
+string: the encrypted string
+Input Format
+
+The first line contains the integer, , the length of the unencrypted string.
+The second line contains the unencrypted string, .
+The third line contains , the number of letters to rotate the alphabet by.
+
+Constraints
+
+
+
+ is a valid ASCII string without any spaces.
+
+Sample Input
+
+11
+middle-Outz
+2
+Sample Output
+
+okffng-Qwvb
+Explanation
+
+Original alphabet:      abcdefghijklmnopqrstuvwxyz
+Alphabet rotated +2:    cdefghijklmnopqrstuvwxyzab
+
+m -> o
+i -> k
+d -> f
+d -> f
+l -> n
+e -> g
+-    -
+O -> Q
+u -> w
+t -> v
+z -> b
+Language
+Java 8
+
+More
+2829303132333435363738394041222324252627151617181920219101112131434567812
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.function.*;
+import java.util.regex.*;
+import java.util.stream.*;
+import static java.util.stream.Collectors.joining;
+…
+        bufferedWriter.write(result);
+        bufferedWriter.newLine();
+
+        bufferedReader.close();
+        bufferedWriter.close();
+    }
+}
+
+Line: 89 Col: 1
+
+Submit Code
+
+Run Code
+
+Upload Code as File
+
+Test against custom input
+Congratulations
+You solved this challenge. Would you like to challenge your friends?Share on FacebookShare on TwitterShare on LinkedIn
+
+Test case 0
+
+Test case 1
+
+Test case 2
+
+Test case 3
+
+Test case 4
+
+Test case 5
+
+Test case 6
+
+Test case 7
+
+Test case 8
+
+Test case 9
+
+Test case 10
+
+Test case 11
+Compiler Message
+Success
+Hidden Test Case
+Unlock this testcase for 5 hackos.
+
+Unlock
