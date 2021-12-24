@@ -27,6 +27,7 @@ Beginner:
 23) Picking Numbers
 24) Left Rotation
 25) Number Line Jumps
+26) Closest Number
 
 Intermediate:
 1) Simple Text Editor
