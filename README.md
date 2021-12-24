@@ -24,6 +24,7 @@ Beginner:
 20) Sales by Match
 21) Migratory Birds
 22) Drawing book
+23) Picking Numbers
 
 Intermediate:
 1) Simple Text Editor
