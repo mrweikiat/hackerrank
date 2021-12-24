@@ -28,6 +28,7 @@ Beginner:
 24) Left Rotation
 25) Number Line Jumps
 26) Closest Number
+27) Minmum Absolute Difference in Array
 
 Intermediate:
 1) Simple Text Editor
