@@ -25,6 +25,8 @@ Beginner:
 21) Migratory Birds
 22) Drawing book
 23) Picking Numbers
+24) Left Rotation
+25) Number Line Jumps
 
 Intermediate:
 1) Simple Text Editor
