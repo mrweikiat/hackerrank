@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaa3c07-5767-4b48-9649-b63c2076ca26" name="Default Changelist" comment="" />
+    <list default="true" id="ebaa3c07-5767-4b48-9649-b63c2076ca26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/MissingNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,5 +69,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="965" y="474" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640785634802">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="965" y="474" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1392@0.0.2560.1392" timestamp="1640785634802" />
+    <state x="1007" y="390" key="FileChooserDialogImpl" timestamp="1640785668155">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1007" y="390" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1640785668155" />
   </component>
 </project>

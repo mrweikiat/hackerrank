@@ -32,6 +32,7 @@ Warm up:
 28) Caesar Cipher
 29) Max min
 30) Strong Password
+31) Missing numbers
 
 Intermediate:
 1) Simple Text Editor
