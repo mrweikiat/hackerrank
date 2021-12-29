@@ -30,6 +30,7 @@ Warm up:
 26) Closest Number
 27) Minmum Absolute Difference in Array
 28) Caesar Cipher
+29) Max min
 
 Intermediate:
 1) Simple Text Editor
