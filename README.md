@@ -31,6 +31,7 @@ Warm up:
 27) Minmum Absolute Difference in Array
 28) Caesar Cipher
 29) Max min
+30) Strong Password
 
 Intermediate:
 1) Simple Text Editor
