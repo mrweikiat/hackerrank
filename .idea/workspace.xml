@@ -20,10 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebaa3c07-5767-4b48-9649-b63c2076ca26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/MissingNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Grid Challenge/GridChallenge.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Grid Challenge/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Warm up ONLY/Grid Challenge/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +69,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="965" y="474" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640785634802">

@@ -33,6 +33,7 @@ Warm up:
 29) Max min
 30) Strong Password
 31) Missing numbers
+32) Grid Challenge
 
 Intermediate:
 1) Simple Text Editor
