@@ -34,6 +34,7 @@ Warm up:
 30) Strong Password
 31) Missing numbers
 32) Grid Challenge
+33) Sherlock and Array
 
 Intermediate:
 1) Simple Text Editor
