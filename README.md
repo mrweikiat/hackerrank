@@ -1,7 +1,7 @@
 # hackerrank
 Some of my codes on hacker rank questions
 
-####Sequential:
+#### Sequential:
 -  Easy
       1) Plus Minus
       2) Camel case 4
