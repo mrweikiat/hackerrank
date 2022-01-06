@@ -1,9 +1,9 @@
 # hackerrank
 Some of my codes on hacker rank questions
 
-Sequential:
-1) Easy
--     1) Plus Minus
+####Sequential:
+-  Easy
+      1) Plus Minus
       2) Camel case 4
       3) Mini max sum
       4) Sparse Array
@@ -37,8 +37,8 @@ Sequential:
       32) Grid Challenge
       33) Sherlock and Array
 
-2) Intermediate
--     1) Simple Text Editor
+-  Intermediate
+      1) Simple Text Editor
       2) 
       3) 
       4) 
