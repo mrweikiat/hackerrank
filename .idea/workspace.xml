@@ -20,110 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebaa3c07-5767-4b48-9649-b63c2076ca26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structures/Intermediate/Queue using 2 stacks/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Structures/Intermediate/Queue using 2 stacks/problem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Simple Text Editor/Simple Text Editor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Intermediate/Simple Text Editor/Simple Text Editor.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Simple Text Editor/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Intermediate/Simple Text Editor/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Simple Text Editor/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Intermediate/Simple Text Editor/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Breaking The Records/Breaking The Record.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Breaking The Records/Breaking The Record.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Breaking The Records/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Breaking The Records/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Breaking The Records/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Breaking The Records/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Caesar Cipher/Caesar Cipher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Caesar Cipher/Caesar Cipher.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Caesar Cipher/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Caesar Cipher/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Caesar Cipher/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Caesar Cipher/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Camel Case 4/Camel Case 4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Camel Case 4/Camel Case 4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Camel Case 4/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Camel Case 4/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Camel Case 4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Camel Case 4/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Closest Number/Closest Number.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Closest Number/Closest Number.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Closest Number/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Closest Number/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Closest Number/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Closest Number/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Counting Sort I/Counting Sort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Counting Sort I/Counting Sort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Counting Sort I/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Counting Sort I/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Counting Sort I/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Counting Sort I/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Counting Valleys/Counting Valleys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Counting Valleys/Counting Valleys.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Counting Valleys/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Counting Valleys/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Counting Valleys/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Counting Valleys/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Diagonal Difference/Diagonal Difference.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Diagonal Difference/Diagonal Difference.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Diagonal Difference/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Diagonal Difference/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Diagonal Difference/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Diagonal Difference/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Divisible Sum Pairs/Divisible Sum Pairs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Divisible Sum Pairs/Divisible Sum Pairs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Divisible Sum Pairs/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Divisible Sum Pairs/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Divisible Sum Pairs/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Divisible Sum Pairs/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Drawing book/Drawing book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Drawing book/Drawing book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Drawing book/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Drawing book/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Drawing book/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Drawing book/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Flipping Bits/Flipping Bits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Flipping Bits/Flipping Bits.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Flipping Bits/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Flipping Bits/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Flipping Bits/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Flipping Bits/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Grading Students/Grading Student.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Grading Students/Grading Student.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Grading Students/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Grading Students/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Grading Students/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Grading Students/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Grid Challenge/GridChallenge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Grid Challenge/GridChallenge.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Grid Challenge/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Grid Challenge/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Grid Challenge/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Grid Challenge/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Left Rotation/Left Rotation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Left Rotation/Left Rotation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Left Rotation/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Left Rotation/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Left Rotation/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Left Rotation/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Lonely Integer/Lonely Integer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Lonely Integer/Lonely Integer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Lonely Integer/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Lonely Integer/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Lonely Integer/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Lonely Integer/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Mars Exploration/Mars Exploration.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Mars Exploration/Mars Exploration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Mars Exploration/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Mars Exploration/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Mars Exploration/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Mars Exploration/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Max min/MaxMin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Max min/MaxMin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Max min/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Max min/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Max min/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Max min/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Migratory Birds/Migratory Birds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Migratory Birds/Migratory Birds.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Migratory Birds/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Migratory Birds/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Migratory Birds/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Migratory Birds/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Mini-Max Sum/Mini-Max Sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Mini-Max Sum/Mini-Max Sum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Mini-Max Sum/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Mini-Max Sum/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Mini-Max Sum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Mini-Max Sum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Minimum Absolute Difference in Array/Minimum Absolute Difference in Array.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Minimum Absolute Difference in Array/Minimum Absolute Difference in Array.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Minimum Absolute Difference in Array/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Minimum Absolute Difference in Array/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Minimum Absolute Difference in Array/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Minimum Absolute Difference in Array/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/MissingNumbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Missing Numbers/MissingNumbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Missing Numbers/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Missing Numbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Missing Numbers/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Number Line Jumps/Number Line Jumps" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Number Line Jumps/Number Line Jumps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Number Line Jumps/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Number Line Jumps/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Number Line Jumps/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Number Line Jumps/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Pangrams/Pangrams.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Pangrams/Pangrams.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Pangrams/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Pangrams/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Pangrams/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Pangrams/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Permuting Two Arrays/Permutating Two Arrays.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Permuting Two Arrays/Permutating Two Arrays.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Permuting Two Arrays/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Permuting Two Arrays/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Permuting Two Arrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Permuting Two Arrays/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Picking Numbers/Picking Numbers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Picking Numbers/Picking Numbers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Picking Numbers/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Picking Numbers/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Picking Numbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Picking Numbers/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Plus Minus/Plus Minus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Plus Minus/Plus Minus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Plus Minus/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Plus Minus/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Plus Minus/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Plus Minus/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Positive Negative Zero/Positive Negative Zero.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Positive Negative Zero/Positive Negative Zero.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Positive Negative Zero/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Positive Negative Zero/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Positive Negative Zero/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Positive Negative Zero/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sales by Match/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sales by Match/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sales by Match/Sales by Match.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sales by Match/Sales by Match.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sales by Match/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sales by Match/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sherlock and Array/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sherlock and Array/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sherlock and Array/Sherlock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sherlock and Array/Sherlock.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sherlock and Array/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sherlock and Array/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sparse Arrays/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sparse Arrays/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sparse Arrays/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sparse Arrays/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Sparse Arrays/Sparse Array.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Sparse Arrays/Sparse Array.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Strong password/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Strong password/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Strong password/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Strong password/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Strong password/StrongPassword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Strong password/StrongPassword.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Subarray Division II/Results.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Subarray Division II/Results.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Subarray Division II/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Subarray Division II/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Subarray Division II/Subarray Division II.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Subarray Division II/Subarray Division II.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Time Conversion/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Time Conversion/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Time Conversion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Time Conversion/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/Time Conversion/Time Conversion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/Time Conversion/Time Conversion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/XOR Strings III/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/XOR Strings III/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Warm up ONLY/XOR Strings III/XOR Strings III.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/Easy/XOR Strings III/XOR Strings III.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,6 +42,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danie\Desktop\Practice makes perfecto\hackerrank\Sequences" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />

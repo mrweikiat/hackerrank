@@ -48,6 +48,9 @@ Some of my codes on hacker rank questions
 
 - Intermediate
     1) Queue using 2 stacks
+    2) Ice cream parlor
+
+
 
 Most of the answer codes are under ```Results.java``` , while ```Solution.java``` are the scanner taking in the inputs from the test cases.
 
