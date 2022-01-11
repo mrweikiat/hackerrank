@@ -1,7 +1,7 @@
 # hackerrank
 Some of my codes on hacker rank questions
 
-#### Sequential:
+#### Sequences:
 -  Easy
       1) Plus Minus
       2) Camel case 4
@@ -43,6 +43,11 @@ Some of my codes on hacker rank questions
       3) 
       4) 
 
+
+#### Data structures
+
+- Intermediate
+    1) Queue using 2 stacks
 
 Most of the answer codes are under ```Results.java``` , while ```Solution.java``` are the scanner taking in the inputs from the test cases.
 
