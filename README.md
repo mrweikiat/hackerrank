@@ -39,7 +39,7 @@ Some of my codes on hacker rank questions
 
 -  Intermediate
       1) Simple Text Editor
-      2) 
+      2) Equal Stacks
       3) 
       4) 
 
